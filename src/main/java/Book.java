@@ -1,8 +1,9 @@
+//import java.util.ArrayList;
 public class Book {
 //basic and simple
-    
-    private String author;
     private String title;
+    private String author;
+    
     private String ISBN;
 // book wit a title author and International Standard Book Number or ISBN
     public Book(String title, String author, String ISBN){
